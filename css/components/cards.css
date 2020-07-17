@@ -37,6 +37,7 @@
 .banner .container .btn-blue:hover {
   background-color: #227ab4;
   box-shadow: 5px 5px 10px white;
+  padding: 25px 35px;
 }
 
 .cards {
@@ -74,7 +75,6 @@
   color: white;
   width: 100%;
   text-align: center;
-  margin: 20px;
 }
 
 .list-inline > li {
